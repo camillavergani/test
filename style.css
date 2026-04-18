@@ -30,9 +30,15 @@ h2 {
     border-radius: 16px;
     cursor: pointer;
 }
+.img_2 {
+    width: 292px;
+}
 .img_1 {
+    width: 590px;
+}
+.img_3 {
     width: 360px;
 }
-.img_2 {
-    width: 360px;
+hr {
+    border: dotted 1.5px #fe001a;
 }
