@@ -1,15 +1,34 @@
-html {
-    background-color: beige;
+body {
+    background-color: black;
+    color: white;
+    font-family: fantasy
 }
 .title {
-    color: red;
+    text-align: center;
+    color: #fe001a;
 }
 .brand-name {
-    color: red;
+    color: #fe001a;
 }
 .inventore_Coca-Cola {
-    color: red;
+    color: #fe001a;
 }
 .inventore-nome {
-    color: red;
+    color: #fe001a;
+}
+h2 {
+    color: #fe001a;
+}
+.button {
+    background-color: #fe001a;
+    color: white;
+    border-color: white;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.img_1 {
+    width: 360px;
+}
+.img_2 {
+    width: 360px;
 }
