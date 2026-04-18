@@ -7,6 +7,9 @@ body {
     text-align: center;
     color: #fe001a;
 }
+.intro {
+    text-align: end;
+}
 .brand-name {
     color: #fe001a;
 }
