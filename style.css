@@ -3,10 +3,17 @@ body {
     color: white;
     font-family: fantasy;
     font-size: 14.5px;
+    line-height: 1.6;
 }
-.title {
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1 {
     text-align: center;
     color: #fe001a;
+    margin-bottom: 80px;
+    font-size: 50px;
 }
 .intro {
     text-align: end;
@@ -31,15 +38,21 @@ h2 {
     cursor: pointer;
     padding: 6px;
 }
-.img_2 {
-    width: 292px;
-}
 .img_1 {
-    width: 590px;
+    width: 470px;
+}
+.img_2 {
+    width: 232px;
 }
 .img_3 {
-    width: 360px;
+    width: 300px;
+}
+footer {
+    max-width: 800px;
+    margin: 0 auto;
 }
 hr {
     border: dotted 1.5px #fe001a;
+    max-width: 800px;
+    margin: 0 auto;
 }
