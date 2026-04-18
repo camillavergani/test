@@ -27,8 +27,9 @@ h2 {
     background-color: #fe001a;
     color: white;
     border-color: white;
-    border-radius: 16px;
+    border-radius: 25px;
     cursor: pointer;
+    padding: 6px;
 }
 .img_2 {
     width: 292px;
